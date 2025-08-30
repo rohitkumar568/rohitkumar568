@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend from India</h3>
 
 <img align="right" width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/159291c6-0586-4e01-bae9-f0c90041c5eb" />
-">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkumar568&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumar568" /> </p>
 
